@@ -3,6 +3,8 @@
 [PA2 Specification]: https://drive.google.com/open?id=1HlPMeFUFBjUVtdYCeUxf38sT6oSUKRE7
 [ChocoPy Specification]: https://drive.google.com/file/d/1mrgrUFHMdcqhBYzXHG24VcIiSrymR6wt
 
+Note: Users running Windows should replace the colon (`:`) with a semicolon (`;`) in the classpath argument for all command listed below.
+
 ## Getting started
 
 Run the following command to build your semantic analysis, and then run all the provided tests:
